@@ -1,0 +1,50 @@
+PHP
+
+124md1-14n1
+
+//CRUD
+www.carikode.com/tutorial-php-membuat-crudcreate-read-update-delete-data-dengan-php-dan-mysql/
+//Login Multi User
+http://www.carikode.com/tutorial-php-membuat-login-admin-dan-user-pada-satu-form-login/
+//Membuat filter tanggal dengan PHP dan JQueryUI
+http://www.carikode.com/tutorial-php-membuat-filter-tanggal-dengan-php-dan-jqueryui/
+//function number_format() pada PHP
+http://www.carikode.com/tutorial-php-function-number_format-pada-php/
+//Mengenal fungsi foreach di PHP
+http://www.carikode.com/tutorial-php-mengenal-fungsi-foreach-di-php/
+
+
+JavaScript
+//tutorial cara membuat background web bergerak
+http://www.carikode.com/tutorial-cara-membuat-background-web-bergerak/
+//Mengenal dan menggunakan event pada JQuery
+http://www.carikode.com/tutorial-dasar-jquery-untuk-pemula-mengenal-dan-menggunakan-event-pada-jquery/
+//Membuat input form tanpa reload dengan Jquery ajax
+http://www.carikode.com/tutorial-jquery-lanjutan-membuat-input-form-tanpa-reload-dengan-jquery-ajax/
+//Mengenal event handling dalam JavaScript
+http://www.carikode.com/tutorial-belajar-dasar-javascript-mengenal-event-handling-dalam-javascript/
+//Cara menghubungkan JavaScript dengan HTML / Tutorial DOM
+http://www.carikode.com/tutorial-belajar-dasar-javascript-cara-menghubungkan-javascript-dengan-html-tutorial-dom/
+//Cara membuat array di JavaScript
+http://www.carikode.com/tutorial-belajar-dasar-javascript-cara-membuat-array-di-javascript/
+//Mengenal operator aritmatika dalam JavaScript
+http://www.carikode.com/tutorial-belajar-dasar-javascript-mengenal-operator-aritmatika-dalam-javascript/
+//Tutorial belajar dasar JavaScript untuk pemula
+http://www.carikode.com/tutorial-belajar-dasar-javascript-untuk-pemula/
+
+
+Bootstrap
+//Membuat Aplikasi Diary dengan PHP dan Bootstrap Part 5
+http://www.carikode.com/tutorial-php-membuat-aplikasi-diary-dengan-php-dan-bootstrap-part-5/
+//Membuat jumbotron menggunakan bootstrap
+http://www.carikode.com/tutorial-bootstrap-membuat-jumbotron-menggunakan-bootstrap/
+//Menggunakan icon Glyphicon Bootstrap
+http://www.carikode.com/tutorial-bootstrap-menggunakan-icon-glyphicon-bootstrap/
+//Membuat menu navigasi responsive dengan Bootstrap
+http://www.carikode.com/tutorial-bootstrap-membuat-menu-navigasi-responsive-dengan-bootstrap/
+//Membuat tombol dengan Bootstrap
+http://www.carikode.com/tutorial-bootstrap-membuat-tombol-dengan-bootstrap/
+//Membuat tabel dengan bootstrap
+http://www.carikode.com/tutorial-bootstrap-membuat-tabel-dengan-bootstrap/
+
+

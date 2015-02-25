@@ -1,0 +1,158 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.chandra.applink.Android" >
+
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+  
+   <LinearLayout 
+       android:layout_width="fill_parent"
+       android:layout_height="match_parent"
+       android:orientation="vertical">
+         <TextView 
+            android:id="@+id/text1"
+	        android:layout_width="fill_parent"
+	        android:layout_height="match_parent"
+	        android:text="Membuat tab menu"
+	        android:textSize="25dp"/>
+	        
+        <TextView 
+        	android:layout_width="fill_parent"
+        	android:layout_height="match_parent"
+        	android:visibility="visible"
+        	android:text="http://jagocoding.com/tutorial/580/..."/>
+       
+       </LinearLayout>
+	
+	<LinearLayout 
+       android:layout_width="fill_parent"
+       android:layout_height="match_parent"
+       android:orientation="vertical">
+        
+        <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"/> 
+	    
+         <TextView 
+            android:id="@+id/text2"
+	        android:layout_width="fill_parent"
+	        android:layout_height="match_parent"
+	        android:text="Membuat Alert Dialog"
+	        android:textSize="25dp"/>
+	        
+        <TextView 
+        	android:layout_width="fill_parent"
+        	android:layout_height="match_parent"
+        	android:visibility="visible"
+        	android:text="http://jagocoding.com/tutorial/595/..."/>
+       
+       </LinearLayout>
+   
+		<LinearLayout 
+	       android:layout_width="fill_parent"
+	       android:layout_height="match_parent"
+	       android:orientation="vertical">
+	        
+        <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"/> 
+	    
+         <TextView 
+            android:id="@+id/text3"
+	        android:layout_width="fill_parent"
+	        android:layout_height="match_parent"
+	        android:text="Top Bar Menu"
+	        android:textSize="25dp"/>
+	        
+        <TextView 
+        	android:layout_width="fill_parent"
+        	android:layout_height="match_parent"
+        	android:visibility="visible"
+        	android:text="http://jagocoding.com/tutorial/531/..."/>
+       
+       </LinearLayout>
+   
+		<LinearLayout 
+	       android:layout_width="fill_parent"
+	       android:layout_height="match_parent"
+	       android:orientation="vertical">
+	        
+        <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"/> 
+	    
+         <TextView 
+            android:id="@+id/text4"
+	        android:layout_width="fill_parent"
+	        android:layout_height="match_parent"
+	        android:text="Linear Layout, Relative Layout, Table Layout "
+	        android:textSize="25dp"/>
+	        
+        <TextView 
+        	android:layout_width="fill_parent"
+        	android:layout_height="match_parent"
+        	android:visibility="visible"
+        	android:text="http://jagocoding.com/tutorial/598/..."/>
+       
+       </LinearLayout>
+		
+		<LinearLayout 
+	       android:layout_width="fill_parent"
+	       android:layout_height="match_parent"
+	       android:orientation="vertical">
+	        
+        <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"/> 
+	    
+         <TextView 
+            android:id="@+id/text5"
+	        android:layout_width="fill_parent"
+	        android:layout_height="match_parent"
+	        android:text="Membuat Spash Screen"
+	        android:textSize="25dp"/>
+	        
+        <TextView 
+        	android:layout_width="fill_parent"
+        	android:layout_height="match_parent"
+        	android:visibility="visible"
+        	android:text="http://jagocoding.com/tutorial/304/..."/>
+       
+       </LinearLayout>
+		
+		<LinearLayout 
+	       android:layout_width="fill_parent"
+	       android:layout_height="match_parent"
+	       android:orientation="vertical">
+	        
+        <TextView 
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"/> 
+	    
+         <TextView 
+            android:id="@+id/text6"
+	        android:layout_width="fill_parent"
+	        android:layout_height="match_parent"
+	        android:text="Belajar Listview"
+	        android:textSize="25dp"/>
+	        
+        <TextView 
+        	android:layout_width="fill_parent"
+        	android:layout_height="match_parent"
+        	android:visibility="visible"
+        	android:text="http://jagocoding.com/tutorial/492/"/>
+       
+       </LinearLayout>
+				
+			
+   </LinearLayout>
+    
+</ScrollView>

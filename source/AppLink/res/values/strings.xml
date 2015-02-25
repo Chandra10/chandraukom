@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LinkApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_kategori">Kategori Link</string>
+    <string name="title_activity_dekstop">Kategori Dekstop</string>
+    <string name="title_activity_android">Kategori Android</string>
+    <string name="title_activity_addlink">Addlink</string>
+
+    <string-array name="spinKategori">
+        <item>Program Web</item>
+        <item>Program Dekstop</item>
+        <item>Program Android</item>
+    </string-array>
+
+    <string name="title_activity_daftar">Daftar</string>
+    <string name="title_activity_data">Data</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_pilihan">Pilihan</string>
+    <string name="title_activity_tab">Program Web</string>
+    <string name="title_activity_php">Php</string>
+    <string name="title_activity_jscript">Jscript</string>
+    <string name="title_activity_bstrap">Bstrap</string>
+    <string name="title_activity_wcphp">WCPhp</string>
+    <string name="title_activity_wlphp">WLPhp</string>
+    <string name="title_activity_wkphp">WKPhp</string>
+    <string name="title_activity_wfphp">WFPhp</string>
+    <string name="title_activity_wsphp">WSPhp</string>
+    <string name="title_activity_wjs1">WJS1</string>
+    <string name="title_activity_wjs2">WJS2</string>
+    <string name="title_activity_wjs3">WJS3</string>
+    <string name="title_activity_wjs4">WJS4</string>
+    <string name="title_activity_wjs5">WJS5</string>
+    <string name="title_activity_wjs6">WJS6</string>
+    <string name="title_activity_wb1">WB1</string>
+    <string name="title_activity_wb2">WB2</string>
+    <string name="title_activity_wb3">WB3</string>
+    <string name="title_activity_wb4">WB4</string>
+    <string name="title_activity_wb5">WB5</string>
+    <string name="title_activity_tab1">Program Dekstop</string>
+    <string name="title_activity_vb">VB</string>
+    <string name="title_activity_jadek">Jadek</string>
+    <string name="title_activity_cpp">Cpp</string>
+    <string name="title_activity_tab2">Program Mobile</string>
+    <string name="title_activity_bb">BB</string>
+    <string name="title_activity_wy">WY</string>
+    <string name="title_activity_view_all_data">ViewAllData</string>
+
+</resources>

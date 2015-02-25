@@ -1,0 +1,40 @@
+Visual Basic
+//Membuat Tulisan Berjalan di VB 6
+http://jagocoding.com/tutorial/469/Membuat_Tulisan_Berjalan_di_VB_6
+//Tutorial Membuat Progress Bar Vertical Pada Visula Basic
+jagocoding.com/tutorial/579/Tutorial_Membuat_Progress_Bar_Vertical_Pada_Visula_Basic
+//Tutorial CRUD
+http://rendirahmat.blogspot.com/2013/12/tutorial-membuat-program-crud-pada.html
+//Tutorial Membuat Bentuk Form VB Tidak Kotak
+http://jagocoding.com/tutorial/571/Tutorial_Membuat_Bentuk_Form_VB_Tidak_Kotak
+//Cara Membuat Highlight Text
+http://jagocoding.com/tutorial/258/Cara_Membuat_Highlight_Text
+
+
+JavaDekstop
+//Mendapatkan dan Menampilkan Input dari Keyboard
+http://jagocoding.com/tutorial/687/Mendapatkan_dan_Menampilkan_Input_dari_Keyboard
+//Tutorial CRUD
+http://jagocoding.com/tutorial/633/Tutorial_Java_Desktop_6_Pengupdatean_Penambahan_Penyimpan_dan_Penghapusan_Record
+//Membuat Event Button Scrolling
+http://jagocoding.com/tutorial/613/Tutorial_Java_Desktop_5_Membuat_Event_Button_Scrolling
+//Melakukan Pengambilan data pada JavaDB 
+http://jagocoding.com/tutorial/610/Tutorial_Java_Desktop_3_Melakukan_Pengambilan_data_pada_JavaDB
+//Melakukan Koneksi ke Database JavaDB
+http://jagocoding.com/tutorial/468/Tutorial_Java_Desktop_2_Melakukan_Koneksi_ke_Database_JavaDB
+
+
+C ++
+//Operasi Perulangan
+http://jagocoding.com/tutorial/132/Operasi_Perulangan_C
+//Pointer
+http://jagocoding.com/tutorial/187/Tutorial_Pointer
+//Menghitung Nilai UTS, UAS dan Menentukan Index Nilainya
+http://jagocoding.com/tutorial/512/Menghitung_Nilai_UTS_UAS_dan_Menentukan_Index_Nilainya_Pada_C
+//Fungsi overloading / function overloading
+http://jagocoding.com/tutorial/320/Tutorial_C_Fungsi_overloading_function_overloading
+//Mengurutkan nama (Selection Sort)
+http://jagocoding.com/tutorial/190/Tutorial_Mengurutkan_nama_Selection_Sort
+//Input/Output Dengan Binary File Pada C++ (Write-Read-Search)
+http://jagocoding.com/tutorial/472/Input_Output_Dengan_Binary_File_Pada_C_Write_Read_Search
+

@@ -1,0 +1,24 @@
+Program Mobile
+--------------
+android
+//Membuat tab menu di aplikasi android
+http://jagocoding.com/tutorial/580/Membuat_tab_menu_di_aplikasi_android
+//Membuat Alert Dialog Pada Android
+http://jagocoding.com/tutorial/595/Membuat_Alert_Dialog_Pada_Android
+//Top Bar Menu Android
+http://jagocoding.com/tutorial/531/TUTORIAL_02_Top_Bar_Menu_Android
+//Linear Layout, Relative Layout, Table Layout
+http://jagocoding.com/tutorial/598/Linear_Layout_Relative_Layout_Table_Layout
+//Membuat Spash Screen
+http://jagocoding.com/tutorial/304/Membuat_Spash_Screen
+//Belajar Listview di Android
+http://jagocoding.com/tutorial/492/Belajar_Listview_di_Android
+
+
+BlackBerry
+//Membuat Hello World Sederhana di Blackberry 10 - part 1
+http://jagocoding.com/tutorial/194/Membuat_Hello_World_Sederhana_di_Blackberry_10_part_1_Konfigurasi_tools_pendukung
+//persiapan "tools" untuk membuat aplikasi blackberry
+http://jagocoding.com/tutorial/74/persiapan_tools_untuk_membuat_aplikasi_blackberry
+//membuat hello world app sederhana di blackberry
+http://jagocoding.com/tutorial/33/membuat_hello_world_app_sederhana_di_blackberry
