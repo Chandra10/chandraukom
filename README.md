@@ -26,3 +26,15 @@ Fitur
 1. Menginput Data
 2. Melihat Data
 3. Mempunyai Web Browser Sendiri
+
+Credit
+-----------------
+* Nama		: Chandra Kusuma Wijaya
+* Kelas		: XI RPL
+* Sekolah	: SMKN 10 JAKARTA TIMUR
+* No Absen	: 08 (DELAPAN)
+* Email		: kusumachandra10@gmail.com
+* Github	: Chandra10
+* Facebook	: Chandra Kusuma
+* Twitter	: @KusumaChandra10
+* PIN BBM	: 7FA2013E
